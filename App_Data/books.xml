@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book>
+    <id>7</id>
+    <title>Thousand Splendid Suns,A</title>
+    <author title="Sir.">
+      <firstname>Khaled</firstname>
+      <middlename>
+      </middlename>
+      <lastname>Hosseini</lastname>
+    </author>
+  </book>
+  <book>
+    <id>8</id>
+    <title>Harry Potter and the Half-Blood Prince</title>
+    <author title="Mrs.">
+      <firstname>Rolling</firstname>
+      <middlename>
+      </middlename>
+      <lastname>J.K.</lastname>
+    </author>
+  </book>
+  <book>
+    <id>9</id>
+    <title>Harry Potter and the Half-Blood Prince</title>
+    <author title="Mrs.">
+      <firstname>J.K.</firstname>
+      <middlename>
+      </middlename>
+      <lastname>Rowling</lastname>
+    </author>
+  </book>
+  <book>
+    <id>10</id>
+    <title>Harry Potter and the Half-Blood Prince</title>
+    <author title="Mrs.">
+      <firstname>J.K.</firstname>
+      <middlename>
+      </middlename>
+      <lastname>Rowling</lastname>
+    </author>
+  </book>
+  <book>
+    <id>11</id>
+    <title>Harry Potter and the Half-Blood Prince</title>
+    <author title="Mrs.">
+      <firstname>J.K.</firstname>
+      <middlename>
+      </middlename>
+      <lastname>Rowling</lastname>
+    </author>
+  </book>
+</books>
